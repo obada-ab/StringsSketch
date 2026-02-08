@@ -1,0 +1,6 @@
+# Build / output
+output/
+
+# IDE
+*.class
+.DS_Store
